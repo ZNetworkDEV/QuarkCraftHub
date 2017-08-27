@@ -1,0 +1,4 @@
+name: QuarkCraftHub
+version: 1.0
+main: net.quarkcraft.hub.Core1
+depend: [ProtocolLib]
